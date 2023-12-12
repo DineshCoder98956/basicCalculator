@@ -1,0 +1,26 @@
+#body1{
+   border: 1px solid;
+   border-color: black;
+   border-radius: 5px;
+   width: 200px;
+   margin: 300px;
+   margin-top: 200px;
+   margin-left: 500px;  
+}
+
+#display{
+    margin: 10px;
+    width: 85%;
+}
+
+.btn-css{
+    height: 40px;
+    width: 40px;
+    margin: 3px;
+}
+
+.btn-conatiner{
+    
+    justify-content: center;
+}
+
